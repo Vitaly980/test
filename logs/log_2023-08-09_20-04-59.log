@@ -1,0 +1,54 @@
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:04:59.085840
+Request method:  POST
+Request URL:  https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+
+
+-----
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:04:59.600353
+Request method:  GET
+Request URL:  https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=4bed933b0146f5b521bbd228305b7cd4
+
+
+-----
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:05:00.231591
+Request method:  PUT
+Request URL:  https://rahulshettyacademy.com/maps/api/place/update/json?key=qaclick123
+
+
+-----
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:05:00.980753
+Request method:  GET
+Request URL:  https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=4bed933b0146f5b521bbd228305b7cd4
+
+
+-----
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:05:01.710743
+Request method:  DELETE
+Request URL:  https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+
+
+-----
+
+-----
+Test:  tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time:  2023-08-09 20:05:02.398758
+Request method:  GET
+Request URL:  https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=4bed933b0146f5b521bbd228305b7cd4
+
+
+-----
